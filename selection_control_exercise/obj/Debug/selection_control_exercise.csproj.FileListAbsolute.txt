@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\bin\Debug\selection_control_exercise.exe.config
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\bin\Debug\selection_control_exercise.exe
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\bin\Debug\selection_control_exercise.pdb
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.selection_control_exercise.resources
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.Properties.Resources.resources
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.exe
+C:\Users\USER\source\repos\selection_control_exercise\selection_control_exercise\obj\Debug\selection_control_exercise.pdb
